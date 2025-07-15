@@ -1,7 +1,7 @@
 # MonkeyType Theme ⌨️
 My Bocchi the Rock theme for MonkeyType
 
-Copy paste URL from theme.txt to a browser that supports MonkeyType
+Copy paste the URL from the `theme.txt` file to a browser that supports MonkeyType
 
 
 Raw Settings:
