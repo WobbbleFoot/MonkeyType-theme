@@ -1,4 +1,4 @@
-# MonkeyType-theme
+<h1 color="Pink> MonkeyType Theme </h1>
 My Bocchi the Rock theme for MonkeyType
 
 Copy paste URL from theme.txt to a browser that supports MonkeyType
