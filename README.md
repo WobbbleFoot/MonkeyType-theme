@@ -1,5 +1,5 @@
 # MonkeyType Theme ⌨️
-**My Bocchi the Rock theme for MonkeyType ** <img width="200" height="200" alt="sticker_3" src="https://github.com/user-attachments/assets/b4270a2c-8426-4c5b-b9ac-12f2c6f46868" />
+**My Bocchi the Rock theme for MonkeyType** <img width="100" height="100" alt="sticker_3" src="https://github.com/user-attachments/assets/b4270a2c-8426-4c5b-b9ac-12f2c6f46868" />
 
 
 Copy paste the URL from the `theme.txt` file to a browser that supports MonkeyType
