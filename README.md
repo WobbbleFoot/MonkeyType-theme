@@ -5,7 +5,7 @@
 <br>
 Copy the full URL from the `theme.txt` file and paste it on a browser that supports MonkeyType
 
-## Looks:
+## Appearance:
 
 <img width="1920" height="1080" alt="Screenshot From 2025-07-28 14-58-03" src="https://github.com/user-attachments/assets/69fdba83-faa0-4930-b7c1-df9e2211594a" />
 
