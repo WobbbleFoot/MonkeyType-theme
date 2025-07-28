@@ -1,6 +1,6 @@
 # MonkeyType Theme ⌨️
 
-<div style:"text-align:center;">
+<div style="text-align: center;">
   <img width="200" height="200" alt="sticker_3" src="https://github.com/user-attachments/assets/b4270a2c-8426-4c5b-b9ac-12f2c6f46868" />
 </div>
 
