@@ -3,6 +3,16 @@ My Bocchi the Rock theme for MonkeyType
 
 Copy paste the URL from the `theme.txt` file to a browser that supports MonkeyType
 
+Looks:
+
+<img width="1920" height="1080" alt="Screenshot From 2025-07-28 14-58-03" src="https://github.com/user-attachments/assets/69fdba83-faa0-4930-b7c1-df9e2211594a" />
+
+<img width="1920" height="1080" alt="Screenshot From 2025-07-28 14-58-33" src="https://github.com/user-attachments/assets/085e96bb-8cfd-4aaf-ac74-e1448c0d8b92" />
+
+<img width="1920" height="1080" alt="Screenshot From 2025-07-28 14-59-03" src="https://github.com/user-attachments/assets/bdc7b2fd-ca73-439d-8193-e45c23d3644f" />
+
+
+
 
 Raw Settings:
 
