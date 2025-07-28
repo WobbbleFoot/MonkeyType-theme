@@ -11,9 +11,9 @@ Looks:
 
 <img width="1920" height="1080" alt="Screenshot From 2025-07-28 14-59-03" src="https://github.com/user-attachments/assets/bdc7b2fd-ca73-439d-8193-e45c23d3644f" />
 
-
-
-
+<br>
+<br>
+<br>
 Raw Settings:
 
 <img width="1919" height="616" alt="image" src="https://github.com/user-attachments/assets/8afd4981-0203-451c-9928-bb2064f0c973" />
